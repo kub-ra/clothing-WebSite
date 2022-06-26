@@ -1,7 +1,6 @@
 .App-logo{
   margin-right: 50px;
   pointer-events: none;
-
 }
 .Navbar li{
   list-style: none;
@@ -12,7 +11,6 @@
   justify-content:space-between;
   flex-wrap: wrap;
   margin-right:20px;
-  
 }
 .Navbar Link{
   text-decoration: none;
